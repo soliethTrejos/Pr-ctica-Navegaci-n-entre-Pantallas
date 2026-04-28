@@ -1,4 +1,4 @@
-@'
+
 # CandyFocus
 
 ## Práctica: Navegación entre Pantallas
